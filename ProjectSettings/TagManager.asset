@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Wall
+  - Weapon
+  - Item
+  - NextRoom
+  - Exp
+  - NestedScroll
+  - UIButton
+  - FxTemporaire
+  - Angel
+  - SphereWeapon
+  - BossMeleeAttack
+  - RangeAtk
+  - MeleeAttack
+  - MonsterWeapon
+  - Wheel
+  - FireWeapon
+  - Plane
+  - Throne
+  - WarriorSkeleton
+  - MiddleMeleeAttack
+  - Pet
+  - Ground
+  - BowWeapon
+  - WaterPound
+  - BatPetWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Room
+  - Monster
+  - Wall
+  - Weapon
+  - Item
+  - OnlyWallWeapon
+  - Exp
+  - Angel
+  - SphereWeapon
+  - BossMeleeAttack
+  - EnemyWeapon
+  - MonsterShooter
+  - Wheel
+  - FireWeapon
+  - Plane
+  - Throne
+  - WarriorSkeleton
+  - BowWeapon
+  - WheelLine
+  - WaterPound
+  - LastBossWeapon
+  - BatPetWeapon
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1392797437
+    locked: 0
